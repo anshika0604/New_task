@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">new_task</string>
+
+    <string name="facebook_app_id">334524402286928</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">229b12d4af2f8322e2dfab3386887728</string>
+
+
 </resources>
